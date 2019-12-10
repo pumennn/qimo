@@ -30,7 +30,7 @@
 
 ## 原型 
 
-!(原型)[https://github.com/pumennn/qimo/blob/master/pdf/%E5%8E%9F%E5%9E%8B1.png?raw=true]
+![原型](https://github.com/pumennn/qimo/blob/master/pdf/%E5%8E%9F%E5%9E%8B1.png?raw=true)
 原型2.信息设计 5%
 信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
 
