@@ -47,6 +47,7 @@
 ## API 产品使用关键AI或机器学习之API的输出入展示 15%
 ### API1.使用水平
 输入：<br>
+···python
 """ 读取图片 """
 def get_file_content(filePath):
     with open(filePath, 'rb') as fp:
@@ -63,6 +64,7 @@ options["type"] = "smoke"
 
 """ 带参数调用驾驶行为分析 """
 client.driverBehavior(image, options)
+···
 <br>
 输出：<br>
 {
