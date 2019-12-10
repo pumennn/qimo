@@ -24,8 +24,8 @@
 | -------- | --------- |
 | 规范驾驶行为 | 行为驾驾驶分析 |
 | 保障乘客安全 | 危险行为识别 |
-| 报警系统 |  | 语音合成 |
-| 路线导航记录路程 | | GPS地图 |
+| 报警系统 | 语音合成 |
+| 路线导航记录路程 | GPS地图 |
 
 ### 应用场景
 * 司机上车后双手离开方向盘，驾驶护航监控识别到此行为后发出警报语音提示“请注意行车安全”
@@ -44,9 +44,61 @@
 原型4.口头操作说明 5%
 口头操作说明：多少程度上在2-3分钟时间限制内，对听众留下了「的确这是个可行丶可用的人工智能加值产品」的印象
 
-API 产品使用关键AI或机器学习之API的输出入展示 15%
-API1.使用水平 5%
-使用水平：在PRD文件中是否有说明且展示，核心功能所应用的API之输入及输出
+## API 产品使用关键AI或机器学习之API的输出入展示 15%
+### API1.使用水平
+输入：<br>
+""" 读取图片 """
+def get_file_content(filePath):
+    with open(filePath, 'rb') as fp:
+        return fp.read()
+
+image = get_file_content('example.jpg')
+
+""" 调用驾驶行为分析 """
+client.driverBehavior(image);
+
+""" 如果有可选参数 """
+options = {}
+options["type"] = "smoke"
+
+""" 带参数调用驾驶行为分析 """
+client.driverBehavior(image, options)
+<br>
+输出：<br>
+{
+  "person_num": 1,
+  "person_info": [{
+    "attributes": {
+      "cellphone": {
+        "threshold": 0.9,
+        "score": 0.500098466873169
+      },
+      "both_hands_leaving_wheel": {
+        "threshold": 0.9,
+        "score": 0.468360424041748
+      },
+      "not_facing_front": {
+        "threshold": 0.9,
+        "score": 0.08260071277618408
+      },
+      "not_buckling_up": {
+        "threshold": 0.9,
+        "score": 0.998087465763092
+      },
+      "smoke": {
+        "threshold": 0.9,
+        "score": 6.29425048828125e-05
+      }
+    },
+    "location": {
+      "width": 483,
+      "top": 5,
+      "height": 238,
+      "left": 8
+    }
+  }],
+  "log_id": 2320165720061799596
+}
 
 #### 使用比较分析 
 
