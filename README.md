@@ -118,7 +118,9 @@ client.driverBehavior(image, options)
 #### 使用比较分析 
 * 语音合成：
 [阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)<br>
-[百度云语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)
+[百度云语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)<br>
+价格上：百度语音单次价格高于阿里云单次价格<br>
+功能上：百度语音合成有离线的合成，使用性更高，不受限制
 
 API3.使用后风险报告 5%
 使用后风险报告：在PRD文件中是否有说明且提供连结证据，所使用的API类别的现在及未来发展性，如API市场竞争程度丶输入输出限制丶定价丶及可替代的程序库（改用自己开发的代码及数据库而不用API）等等
