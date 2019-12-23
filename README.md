@@ -44,7 +44,7 @@
 ## 原型 
 
 ### 产品框架图
-![产品框架图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png)
+![产品框架图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%A9%BE%E9%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 交互及页面设计
 ![原型](https://github.com/pumennn/qimo/blob/master/pdf/%E5%8E%9F%E5%9E%8B1.png?raw=true)
 
