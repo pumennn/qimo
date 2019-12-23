@@ -116,8 +116,9 @@ client.driverBehavior(image, options)
 }
 ```
 #### 使用比较分析 
-
-使用比较分析：在PRD文件中是否有说明且提供连结证据，所使用的API是查找过最适用的（主要竞争者无或比较次），如考量其成熟度丶性价比丶等等
+* 语音合成：
+[阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)<br>
+[百度云语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)
 
 API3.使用后风险报告 5%
 使用后风险报告：在PRD文件中是否有说明且提供连结证据，所使用的API类别的现在及未来发展性，如API市场竞争程度丶输入输出限制丶定价丶及可替代的程序库（改用自己开发的代码及数据库而不用API）等等
