@@ -44,7 +44,7 @@
 ## 原型 
 
 ### 产品框架图
-
+![产品框架图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png)
 ### 交互及页面设计
 ![原型](https://github.com/pumennn/qimo/blob/master/pdf/%E5%8E%9F%E5%9E%8B1.png?raw=true)
 
@@ -117,8 +117,8 @@ client.driverBehavior(image, options)
 ```
 #### 使用比较分析 
 * 语音合成：
-[阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)<br>
-[百度云语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)<br>
+[阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png)<br>
+[百度语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png)<br>
 价格上：百度语音单次价格高于阿里云单次价格<br>
 功能上：百度语音合成有离线的合成，使用性更高，不受限制
 
