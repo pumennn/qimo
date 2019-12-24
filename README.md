@@ -48,8 +48,12 @@
 ### 交互及页面设计
 ![原型](https://github.com/pumennn/qimo/blob/master/pdf/%E5%8E%9F%E5%9E%8B1.png?raw=true)
 
-原型2.信息设计 5%
-信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
+### 信息设计 
+![登录](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF.png)
+![选择](https://github.com/pumennn/qimo/blob/master/pdf/%E9%80%89%E6%8B%A9%E6%A8%A1%E5%BC%8F%E4%BF%A1%E6%81%AF.png)
+![路线](https://github.com/pumennn/qimo/blob/master/pdf/%E8%B7%AF%E7%BA%BF%E4%BF%A1%E6%81%AF.png)
+![警告](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AD%A6%E5%91%8A%E4%BF%A1%E6%81%AF.png)
+![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF.png)
 
 原型3.原型文档 5%
 原型文档：多少程度上有提供MVP可交互的原型文档，供它人在Github上下载使用
