@@ -49,11 +49,11 @@
 ![原型](https://github.com/pumennn/qimo/blob/master/pdf/%E5%8E%9F%E5%9E%8B1.png?raw=true)
 
 ### 信息设计 
-![登录](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF.png)
-![选择](https://github.com/pumennn/qimo/blob/master/pdf/%E9%80%89%E6%8B%A9%E6%A8%A1%E5%BC%8F%E4%BF%A1%E6%81%AF.png)
-![路线](https://github.com/pumennn/qimo/blob/master/pdf/%E8%B7%AF%E7%BA%BF%E4%BF%A1%E6%81%AF.png)
-![警告](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AD%A6%E5%91%8A%E4%BF%A1%E6%81%AF.png)
-![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF.png)
+![登录](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF.png)<br>
+![选择](https://github.com/pumennn/qimo/blob/master/pdf/%E9%80%89%E6%8B%A9%E6%A8%A1%E5%BC%8F%E4%BF%A1%E6%81%AF.png)<br>
+![路线](https://github.com/pumennn/qimo/blob/master/pdf/%E8%B7%AF%E7%BA%BF%E4%BF%A1%E6%81%AF.png)<br>
+![警告](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AD%A6%E5%91%8A%E4%BF%A1%E6%81%AF.png)<br>
+![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF.png)<br>
 
 原型3.原型文档 5%
 原型文档：多少程度上有提供MVP可交互的原型文档，供它人在Github上下载使用
@@ -76,13 +76,13 @@
 | 优势 | 有离线的语音合成 | 有长短语音合成，可以为客户定制音库
 | 劣势 | 音色选择少 | 没有离线语音合成 |
 | 综合 | × | √ |
-* 地图api:
+* 路线规划api:
 [高德](https://lbs.amap.com/)<br>
 [百度](http://lbsyun.baidu.com/)<br>
 [腾讯](https://lbs.qq.com/)<br>
 
 
-| 类别 | 高德地图 | 百度地图 | 腾讯地图 |
+| 类别 | 高德 | 百度 | 腾讯 |
 | -------- | --------- | ------- | ------------- |
 | 价格 | 00000 | 0000 |
 | 优势 |  自定义避让区域或道路，想不走哪里就不走哪里不走该区域| 有实时路况 | 有室内地图 |
