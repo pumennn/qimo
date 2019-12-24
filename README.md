@@ -46,7 +46,7 @@
 ### 产品框架图
 ![产品框架图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%A9%BE%E9%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 交互及页面设计
-[原型](file:///C:/Users/pei/Desktop/驾驶护航/start.html#g=1&p=产品架构图)：file:///C:/Users/pei/Desktop/驾驶护航/start.html#g=1&p=产品架构图
+
 
 ### 信息设计 
 ![登录](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF.png)<br>
