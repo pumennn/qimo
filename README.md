@@ -68,7 +68,7 @@
 
 | 类别 | 百度语音合成 | 阿里云语音合成 |
 | -------- | --------- | ------- |
-| 价格 | ![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png | ![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png) |
+| 价格 | ![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png) | ![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png) |
 | 优势 | 有离线的语音合成 | 有长短语音合成，可以为客户定制音库
 | 劣势 | 音色选择少 | 没有离线语音合成 |
 | 综合 | × | √ |
