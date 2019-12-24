@@ -65,12 +65,12 @@
 [百度语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png)<br>
 价格上：百度语音单次价格高于阿里云单次价格<br>
 功能上：百度语音合成有离线的合成，使用性更高，不受限制<br>
-|  | 百度语音合成 | 阿里云语音合成 |
+|   | 百度语音合成 | 阿里云语音合成 |
 | -------- | --------- | ------- |
 | 价格 | 较高 | 较低 |
 | 优势 | 有离线的语音合成 | 有长短语音合成，可以为客户定制音库
 | 劣势 | 音色选择少 | 没有离线语音合成 |
-| 综合 |  | √ |
+| 综合 |   | √ |
 * 地图api:
 [高德](https://lbs.amap.com/)<br>
 [百度](http://lbsyun.baidu.com/)<br>
