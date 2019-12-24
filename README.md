@@ -120,7 +120,13 @@ client.driverBehavior(image, options)
 [阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png)<br>
 [百度语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png)<br>
 价格上：百度语音单次价格高于阿里云单次价格<br>
-功能上：百度语音合成有离线的合成，使用性更高，不受限制
+功能上：百度语音合成有离线的合成，使用性更高，不受限制<br>
+
+* 地图api:
+[高德](https://lbs.amap.com/)<br>
+[百度](http://lbsyun.baidu.com/)<br>
+[腾讯](https://lbs.qq.com/)<br>
+[阿里云](https://yq.aliyun.com/zt/9275)<br>
 
 API3.使用后风险报告 5%
 使用后风险报告：在PRD文件中是否有说明且提供连结证据，所使用的API类别的现在及未来发展性，如API市场竞争程度丶输入输出限制丶定价丶及可替代的程序库（改用自己开发的代码及数据库而不用API）等等
