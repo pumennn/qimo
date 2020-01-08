@@ -43,8 +43,10 @@
 
 ## 原型 
 
-### 产品框架图
-![产品框架图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%A9%BE%E9%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+### 产品架构图
+![产品架构图](https://github.com/pumennn/qimo/blob/master/pdf/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+### 产品流程图
+![产品流程图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%A9%BE%E9%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 交互及页面设计
 
 
@@ -53,7 +55,7 @@
 ![选择](https://github.com/pumennn/qimo/blob/master/pdf/%E9%80%89%E6%8B%A9%E6%A8%A1%E5%BC%8F%E4%BF%A1%E6%81%AF.png)<br>
 ![路线](https://github.com/pumennn/qimo/blob/master/pdf/%E8%B7%AF%E7%BA%BF%E4%BF%A1%E6%81%AF.png)<br>
 ![警告](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AD%A6%E5%91%8A%E4%BF%A1%E6%81%AF.png)<br>
-![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF.png)<br>
+![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AF%84%E5%88%86.png)<br>
 
 ### 原型文档 5%
 
