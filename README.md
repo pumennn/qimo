@@ -63,8 +63,8 @@
 ### API1.使用水平
 * 高德路线规划代码下载：[https://lbs.amap.com/api/javascript-api/summary](https://lbs.amap.com/api/javascript-api/summary)
 * 阿里云语音合成：[https://help.aliyun.com/document_detail/120699.html?spm=a2c4g.11186623.6.594.66c16af2OAK2lW](https://help.aliyun.com/document_detail/120699.html?spm=a2c4g.11186623.6.594.66c16af2OAK2lW)
-* 百度驾驶行为分析[https://ai.baidu.com/ai-doc/BODY/Rk3cpyo93](https://ai.baidu.com/ai-doc/BODY/Rk3cpyo93)
-驾驶：
+* 百度驾驶行为分析[https://ai.baidu.com/ai-doc/BODY/Rk3cpyo93](https://ai.baidu.com/ai-doc/BODY/Rk3cpyo93)<br>
+驾驶：<br>
 输入：<br>
 ```python
 """ 读取图片 """
@@ -145,7 +145,7 @@ client.driverBehavior(image, options)
 | 类别 | 高德 | 百度 | 腾讯 |
 | -------- | --------- | ------- | ------------- |
 | 价格 | 00000 | 0000 |
-| 优势 |  自定义避让区域或道路，想不走哪里就不走哪里不走该区域| 有实时路况。有未来出行模式 | 有室内地图 |
+| 优势 |  自定义避让区域或道路，想不走哪里就不走哪里不走该区域 | 有实时路况。有未来出行模式 | 有室内地图 |
 | 劣势 | 没室内图 | 没有室内图 | 没有轨迹纠偏，里程计算 |
 | 综合 | √ | × | × |
 
