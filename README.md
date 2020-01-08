@@ -61,38 +61,10 @@
 口头操作说明：大家好！经过我们的反复调试及测试，我们的驾驶护航APP现已投入使用。我们团队基于想要减少交通事故、提高司机驾驶安全的想法，设计此款APP，我们结合百度的驾驶行为分析API以外，还结合了危险行为识别的API，危险行为识别API可以识别车内人员出现推打拉扯的行为，也可以识别司机单人时出现抱怨、砸东西等行为，提出警报，并且安排语音合成的报警系统，只需语音回答即刻自动接通报警电话。
 ## API 产品使用关键AI或机器学习之API的输出入展示 15%
 ### API1.使用水平
-
-#### 使用比较分析 
-* 语音合成：
-[阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png)<br>
-[百度语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png)<br>
-价格上：百度语音单次价格高于阿里云单次价格<br>
-功能上：百度语音合成有离线的合成，使用性更高，不受限制<br>
-
-| 类别 | 百度语音合成 | 阿里云语音合成 |
-| -------- | --------- | ------- |
-| 价格 | ![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png) | ![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png) |
-| 优势 | 有离线的语音合成 | 有长短语音合成，可以为客户定制音库
-| 劣势 | 音色选择少 | 没有离线语音合成 |
-| 综合 | × | √ |
-* 路线规划api:
-[高德](https://lbs.amap.com/)<br>
-[百度](http://lbsyun.baidu.com/)<br>
-[腾讯](https://lbs.qq.com/)<br>
-
-
-| 类别 | 高德 | 百度 | 腾讯 |
-| -------- | --------- | ------- | ------------- |
-| 价格 | 00000 | 0000 |
-| 优势 |  自定义避让区域或道路，想不走哪里就不走哪里不走该区域| 有实时路况 | 有室内地图 |
-| 劣势 | 没室内图 | 没有室内图 | 没有轨迹纠偏，里程计算 |
-| 综合 | √ | × | × |
-
-API3.使用后风险报告 5%
-使用后风险报告：在PRD文件中是否有说明且提供连结证据，所使用的API类别的现在及未来发展性，如API市场竞争程度丶输入输出限制丶定价丶及可替代的程序库（改用自己开发的代码及数据库而不用API）等等
-
-API4.加分项 3%
-使用复杂度：用了2个以上机器学习与人工智能的API之输入及输出<br>
+* 高德路线规划代码下载：[https://lbs.amap.com/api/javascript-api/summary](https://lbs.amap.com/api/javascript-api/summary)
+* 阿里云语音合成：[https://help.aliyun.com/document_detail/120699.html?spm=a2c4g.11186623.6.594.66c16af2OAK2lW](https://help.aliyun.com/document_detail/120699.html?spm=a2c4g.11186623.6.594.66c16af2OAK2lW)
+* 百度驾驶行为分析[https://ai.baidu.com/ai-doc/BODY/Rk3cpyo93](https://ai.baidu.com/ai-doc/BODY/Rk3cpyo93)
+驾驶：
 输入：<br>
 ```python
 """ 读取图片 """
@@ -150,6 +122,40 @@ client.driverBehavior(image, options)
   "log_id": 2320165720061799596
 }
 ```
+
+#### 使用比较分析 
+* 语音合成：
+[阿里云语音合成介绍](https://ai.aliyun.com/nls/tts?spm=a2c4g.750001.h2v3icoap.188.47ca7b13RyG9D7)<br>
+[百度语音合成](https://ai.baidu.com/ai-doc/SPEECH/yk38y8h3j)<br>
+价格上：百度语音单次价格高于阿里云单次价格<br>
+功能上：百度语音合成有离线的合成，使用性更高，不受限制<br>
+
+| 类别 | 百度语音合成 | 阿里云语音合成 |
+| -------- | --------- | ------- |
+| 价格 | ![百度价格](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%B7%E6%A0%BC.png) | ![阿里云价格](https://github.com/pumennn/qimo/blob/master/pdf/%E9%98%BF%E9%87%8C%E4%BA%91%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E4%BB%8B%E4%B8%AA.png) |
+| 优势 | 有离线的语音合成 | 有长短语音合成，可以为客户定制音库
+| 劣势 | 音色选择少 | 没有离线语音合成 |
+| 综合 | × | √ |
+* 路线规划api:
+[高德](https://lbs.amap.com/)<br>
+[百度](http://lbsyun.baidu.com/)<br>
+[腾讯](https://lbs.qq.com/)<br>
+
+
+| 类别 | 高德 | 百度 | 腾讯 |
+| -------- | --------- | ------- | ------------- |
+| 价格 | 00000 | 0000 |
+| 优势 |  自定义避让区域或道路，想不走哪里就不走哪里不走该区域| 有实时路况。有未来出行模式 | 有室内地图 |
+| 劣势 | 没室内图 | 没有室内图 | 没有轨迹纠偏，里程计算 |
+| 综合 | √ | × | × |
+
+### API3.使用后风险报告 5%
+#### 驾驶行为分析API：
+* 价格低至0.7元/千次，成本低性价比高
+*  已被广骏旅汽投入监管出租车，发挥稳定
+* 总共10000次的免费次数用于测试阶段，正式运行后再落地
+* 具有红外线，晚上也可正常工作
+
 
 ###  一句话版本：
 驾驶护航APP，从司机和乘客角度内外保护此次交通的安全。
