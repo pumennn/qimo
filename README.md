@@ -47,10 +47,9 @@
 ![产品架构图](https://github.com/pumennn/qimo/blob/master/pdf/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 ### 产品流程图
 ![产品流程图](https://github.com/pumennn/qimo/blob/master/pdf/%E9%A9%BE%E9%A9%B6%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
-### 交互及页面设计
 
 
-### 信息设计 
+### 交互及页面设计&信息设计 
 ![登录](https://github.com/pumennn/qimo/blob/master/pdf/%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF.png)<br>
 ![选择](https://github.com/pumennn/qimo/blob/master/pdf/%E9%80%89%E6%8B%A9%E6%A8%A1%E5%BC%8F%E4%BF%A1%E6%81%AF.png)<br>
 ![路线](https://github.com/pumennn/qimo/blob/master/pdf/%E8%B7%AF%E7%BA%BF%E4%BF%A1%E6%81%AF.png)<br>
@@ -58,6 +57,7 @@
 ![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AF%84%E5%88%86.png)<br>
 
 ### 原型文档 5%
+[原型下载](https://github.com/pumennn/cang)
 
 ### 口头操作说明 
 口头操作说明：大家好！经过我们的反复调试及测试，我们的驾驶护航APP现已投入使用。我们团队基于想要减少交通事故、提高司机驾驶安全的想法，设计此款APP，我们结合百度的驾驶行为分析API以外，还结合了危险行为识别的API，危险行为识别API可以识别车内人员出现推打拉扯的行为，也可以识别司机单人时出现抱怨、砸东西等行为，提出警报，并且安排语音合成的报警系统，只需语音回答即刻自动接通报警电话。
@@ -156,6 +156,10 @@ client.driverBehavior(image, options)
 *  已被广骏旅汽投入监管出租车，发挥稳定
 * 总共10000次的免费次数用于测试阶段，正式运行后再落地
 * 具有红外线，晚上也可正常工作
+* 目前国内只有百度有此API，竞争不大
+
+### 危险行为分析
+* 目前只有国内有百度有此API，竞争不大
 
 
 ###  一句话版本：
