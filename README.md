@@ -81,6 +81,7 @@
 ![我的](https://github.com/pumennn/qimo/blob/master/pdf/%E8%AF%84%E5%88%86.png)<br>
 
 ### 原型文档 
+[原型浏览](https://nfunm107.gitee.io/cang/#g=1&p=%E9%A9%BE%E9%A9%B6%E6%8A%A4%E8%88%AA%E6%B5%81%E7%A8%8B%E5%9B%BE)
 [原型下载](https://github.com/pumennn/cang)
 
 ### 口头操作说明 
